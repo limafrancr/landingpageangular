@@ -1,0 +1,16 @@
+/* Você pode adicionar estilos globais a este arquivo e também importar outros arquivos de estilo */
+@import "https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: "poppins" sans-serif;
+}
+
+.pad-70{
+    padding: 0 70px;
+}
+

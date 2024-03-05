@@ -1,0 +1,53 @@
+@import "../../../color.variables.scss";
+
+button{
+     border: none;
+     border-radius: 30px;
+     cursor: pointer;
+
+    color: rgb(255, 255, 255);
+    background: -webkit-linear-gradient(180deg , $primary-color, $secondary-color,);
+    font-size: 15px;
+    font-weight: bold;
+    padding: 20px;
+    margin: 10px;
+
+    // &:disabled{
+    //     opacity: 0.6;
+    // }
+    
+    // &.primary{
+    //     color: rgb(255, 255, 255);
+    //     background: -webkit-linear-gradient(180deg , $primary-color, $secondary-color,);
+    //     font-size: 24px;
+    //     font-weight: bold;
+    //     padding: 20px;
+    // }
+    
+    // &.secondary{
+    //     background: white;
+    //     font-size: 24px;
+    //     font-weight: bold;
+    //     padding: 16px;
+    // }
+
+}
+
+// &:disabled{
+//     opacity: 0.6;
+// }
+
+// &.primary{
+//     color: rgb(255, 255, 255);
+//     background: -webkit-linear-gradient(180deg , $primary-color, $secondary-color,);
+//     font-size: 24px;
+//     font-weight: bold;
+//     padding: 20px;
+// }
+
+// &.secondary{
+//     background: white;
+//     font-size: 24px;
+//     font-weight: bold;
+//     padding: 16px;
+// }

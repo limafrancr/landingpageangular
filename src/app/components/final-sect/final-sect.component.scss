@@ -1,0 +1,17 @@
+.final{
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    .text{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin: 2rem;
+        padding: 2rem;
+        font-size: 2rem;
+    }
+}

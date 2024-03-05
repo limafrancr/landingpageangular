@@ -1,0 +1,21 @@
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    margin: 2rem;
+}
+
+ul{
+    display: flex;
+    font-size: 2rem;
+    list-style: none;
+    gap: 2rem;
+    color: white;
+    font-weight: bold;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+}
